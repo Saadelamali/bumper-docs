@@ -3,12 +3,16 @@ Its easy to setup your server, all you have to do is run `/setup` and you'll see
 ## Setup commands
 `/Setup Channel :`
  Sets your bump channel, this allows the bot to send your/other server's advertisement aka ads
+ <br>
  `/Setup Invite :`
  Sets your server invite, this allows users to join your server
+ <br>
  `/Setup Description :`
  Sets your description
+ <br>
 `/Setup Color :`
  This is a premium feature
+ <br>
 `/Setup Banner :`
  This is a premium feature
 # How does it work?
