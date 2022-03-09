@@ -18,8 +18,6 @@ Its easy to setup your server, all you have to do is run `/setup` and you'll see
  <br>
  <br>
  ![commands](https://media.discordapp.net/attachments/853104915440992276/948920148784463872/Capture_decran_2022-03-03_122802.png?width=861&height=450)
-### How does it work?
-Each time you bump your server, your advertisement gets sent out to a number of other servers.
-### You have more questions?
+### Need help?
 Join up our support server and feel free to ask the staff/dev members, we would love to answer your questions. Also we have a FAQ channel in our support server!
 [Click To Join Our Support Server](https://discord.gg/ZYKtHS6anN)
