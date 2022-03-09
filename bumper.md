@@ -31,5 +31,7 @@ Reason :
 ```
 ### How can i invite Bumper?
 Bumper at so many websites like `Top.gg, Dbl, Rdl and void.net` u can invite bumper from one of these websites or u can invite the bot by using the link below :
-[Link :](https://discord.com/api/oauth2/authorize?client_id=908043115649187880&permissions=137439308944&scope=bot%20applications.commands)  https://discord.com/api/oauth2/authorize?client_id=908043115649187880&permissions=137439308944&scope=bot%20applications.commands
+<br>
+[Link :](https://discord.com/api/oauth2/authorize?client_id=908043115649187880&permissions=137439308944&scope=bot%20applications.commands)
+<br>https://discord.com/api/oauth2/authorize?client_id=908043115649187880&permissions=137439308944&scope=bot%20applications.commands
     
