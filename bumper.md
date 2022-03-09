@@ -1,30 +1,16 @@
 # Setup
 Its easy to setup your server, all you have to do is run `/setup` and you'll see a list of slash commands. If you cannot see the commands, re-add Bumper with this [LINK](https://discord.com/oauth2/authorize?client_id=908043115649187880&scope=bot%20applications.commands&permissions=137439308944&redirect_uri=https%3A%2F%2Fdiscord.gg%2FZYKtHS6anN&response_type=code)
 ## Setup commands
-`/Setup Channel`
- <lu> 
-    Sets your bump channel, this allows the bot to send your/other server's advertisement aka ads
-</lu> 
-<br>
- `/Setup Invite`
- <lu>
+`/Setup Channel :`
+ Sets your bump channel, this allows the bot to send your/other server's advertisement aka ads
+ `/Setup Invite :`
  Sets your server invite, this allows users to join your server
- </lu> 
- <br>
-`/Setup Description`
-<lu>
+ `/Setup Description :`
  Sets your description
- </lu>
- <br>
-`/Setup Color`
- <lu>
+`/Setup Color :`
  This is a premium feature
- </lu> 
- <br>
-`/Setup Banner`
-<lu>
+`/Setup Banner :`
  This is a premium feature
- </lu>
 # How does it work?
 Each time you bump your server, your advertisement gets sent out to a number of other servers.
 # You have more questions?
