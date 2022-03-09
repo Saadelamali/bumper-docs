@@ -7,13 +7,24 @@ Its easy to setup your server, all you have to do is run `/setup` and you'll see
 </lu> 
 <br>
  `/Setup Invite`
- -  Sets your server invite, this allows users to join your server
+ <lu>
+ Sets your server invite, this allows users to join your server
+ </lu> 
+ <br>
 `/Setup Description`
- - Sets your description
+<lu>
+ Sets your description
+ </lu>
+ <br>
 `/Setup Color`
-  - This is a premium feature
+ <lu>
+ This is a premium feature
+ </lu> 
+ <br>
 `/Setup Banner`
- - This is a premium feature
+<lu>
+ This is a premium feature
+ </lu>
 # How does it work?
 Each time you bump your server, your advertisement gets sent out to a number of other servers.
 # You have more questions?
