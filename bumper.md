@@ -3,7 +3,7 @@ Its easy to setup your server, all you have to do is run `/setup` and you'll see
 ## Setup commands
 `/Setup Channel`
  - Sets your bump channel, this allows the bot to send your/other server's advertisement aka ads 
-`/Setup Invite`
+ `/Setup Invite`
  -  Sets your server invite, this allows users to join your server
 `/Setup Description`
  - Sets your description
