@@ -17,7 +17,7 @@ Its easy to setup your server, all you have to do is run `/setup` and you'll see
  This is a premium feature
  <br>
  <br>
- ![commands](https://media.discordapp.net/attachments/853104915440992276/948920148784463872/Capture_decran_2022-03-03_122802.png?width=861&height=450)
+ ![commands](https://cdn.discordapp.com/attachments/821770974037803047/955194915564978336/unknown.png)
 # FAQ
 ### What is Bumper?
 Bmper is a  bump bot that allows you advertise your server in other servers. Each time you `/bump` your server, your advertisement gets sent out to a number of other servers.
